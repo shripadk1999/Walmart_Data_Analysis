@@ -1,5 +1,6 @@
 # Walmart Data Analysis using Python
-![Screenshot 2024-10-31 230011](https://github.com/user-attachments/assets/5439a4b2-a869-4a3e-a288-4f8ec4f26190)
+![Screenshot 2024-10-31 230518](https://github.com/user-attachments/assets/33fcb480-a883-41b2-828b-acc417634e28)
+
 
 ## Table Of Contents
 - [Problem Statement](#problem-statement)
