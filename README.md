@@ -1,4 +1,4 @@
-# Walmart Data Analysis using Python
+# Walmart Data Analysis using Power BI
 ![Screenshot 2024-10-31 230518](https://github.com/user-attachments/assets/33fcb480-a883-41b2-828b-acc417634e28)
 
 
